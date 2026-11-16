@@ -6,11 +6,14 @@ Early technical demo of **Diorama Detective**, a detective game set in small pix
 
 This repository only hosts the demo builds. The game itself is in development.
 
-## What is in this demo (version 0.1)
+## What is in this demo (version 0.2)
 
 - Case 01: a snowy railway station at night. A station master lies dead in his office.
 - One explorable diorama with the full camera controls.
-- No case book, no interaction and no HUD yet. Clicking objects comes in a later version.
+- Click any object to examine it. Hover shows its title; hold **Space** (or use **Show all**) to see every clickable object.
+- Highlighted words in the texts are clues: click each one to collect it. The word bank at the bottom collects them (**Tab** or a click on the strip opens it).
+- 34 words can be collected. Two clues are hidden and only visible from the right angle.
+- No case book yet: you collect the words, but you cannot solve the case in this version.
 
 ## Download
 
@@ -18,9 +21,9 @@ Get the latest build from the [Releases](../../releases) page:
 
 | Platform | File |
 |---|---|
-| Windows (64-bit) | `DioramaDetective-0.1.0-windows.zip` |
-| macOS (Apple Silicon and Intel) | `DioramaDetective-0.1.0-macos.zip` |
-| Linux (x86_64) | `DioramaDetective-0.1.0-linux.zip` |
+| Windows (64-bit) | `DioramaDetective-0.2.0-windows.zip` |
+| macOS (Apple Silicon and Intel) | `DioramaDetective-0.2.0-macos.zip` |
+| Linux (x86_64) | `DioramaDetective-0.2.0-linux.zip` |
 
 ### System requirements
 
