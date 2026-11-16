@@ -29,7 +29,7 @@ Get the latest build from the [Releases](../../releases) page:
 
 ### macOS
 
-The app is not notarized, so macOS blocks it on first start. Try to open it once, then go to **System Settings > Privacy & Security** and click **Open Anyway**. On macOS 14 and older, a right click on the app and **Open** also works.
+The app is signed and notarized by Apple. Unzip it, move **DioramaDetective.app** to your Applications folder if you like, and open it with a double click. On first start macOS asks once whether you want to open an app downloaded from the internet; confirm with **Open**.
 
 ### Windows
 
