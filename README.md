@@ -6,6 +6,8 @@ Early technical demo of **Diorama Detective**, a detective game set in small pix
 
 This repository only hosts the demo builds. The game itself is in development.
 
+**Play in your browser: https://comicsans.github.io/diorama-detective-demo/** (desktop browser, no download).
+
 ## What is in this demo (version 0.5)
 
 - You start on the street in front of Mr Marrow's shop. A note from Mrs Pell lies on the doorstep; the door stays shut in the demo ("The shop opens in the full game"). In the shop window stands one diorama box: click it to step in.
